@@ -4,7 +4,20 @@
   "address": "47RjSoNCvuzZM1rkLXMHvbfWwSqtBHapUJ6TAuDMgDMYBSF8uL7uqSsGpK9DcEEjvy67jUD2d8FbotYamKJi6Ejw",
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/TON_UTILISATEUR/letsplaymodder-token/main/assets/logo.png",
+  "tags": ["game", "community", "modding"{
+  "name": "Let'sPlayModder",
+  "symbol": "LPM",
+  "address": "47RjSoNCvuzZM1rkLXMHvbfWwSqtBHapUJ6TAuDMgDMYBSF8uL7uqSsGpK9DcEEjvy67jUD2d8FbotYamKJi6Ejw",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/LetsPlayModder/letsplaymodder-token/main/assets/logo.png",
   "tags": ["game", "community", "modding"],
+  "extensions": {
+    "website": "https://letsplaymodder.com",
+    "twitter": "https://x.com/Letsplaymodder",
+    "youtube": "https://m.youtube.com/@letsplaymodder3045",
+    "description": "Let'sPlayModder est un projet communautaire dédié à la création de jeux modifiés avec intégration blockchain."
+  }
+  }],
   "extensions": {
     "website": "https://letsplaymodder.com",
     "twitter": "https://x.com/Letsplaymodder",
