@@ -1,0 +1,18 @@
+{
+  "name": "Let'sPlayModder",
+  "symbol": "LPM Angie",
+  "address": "0xc577ba3Ad82FA23Fc3Cd2772c128bF2a617e9d62",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/LetsPlayModder/token-list/main/assets/logo.png",
+  "tags": [
+    "game",
+    "community",
+    "modding"
+  ],
+  "extensions": {
+    "website": "https://letsplaymodder.com",
+    "twitter": "https://x.com/Letsplaymodder",
+    "youtube": "https://m.youtube.com/@letsplaymodder3045",
+    "description": "Let'sPlayModder est un projet communautaire d\u00e9di\u00e9 \u00e0 la cr\u00e9ation de jeux modifi\u00e9s avec int\u00e9gration blockchain."
+  }
+}
