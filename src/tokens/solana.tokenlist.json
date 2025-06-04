@@ -1,14 +1,14 @@
 {
   "name": "Let'sPlayModder",
   "symbol": "LPM",
-  "address": "47RjSoNCvuzZM1rkLXMHvbfWwSqtBHapUJ6TAuDMgDMYBSF8uL7uqSsGpK9DcEEjvy67jUD2d8FbotYamKJi6Ejw",
+  "address": "5iDWtRpcfwMurxdYDVRs6uTnc84cRgCLYhydjGscBL3o",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/TON_UTILISATEUR/letsplaymodder-token/main/assets/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/LetsPlayModder/letsplaymodder-token/main/assets/mainnet/5iDWtRpcfwMurxdYDVRs6uTnc84cRgCLYhydjGscBL3o/logo.png",
   "tags": ["game", "community", "modding"],
   "extensions": {
-    "website": "https://letsplaymodder.com",
+    "website": "https://letsplaymodder.github.io/letsplaymodder-site/",
     "twitter": "https://x.com/Letsplaymodder",
     "youtube": "https://m.youtube.com/@letsplaymodder3045",
-    "description": "Let'sPlayModder est un projet communautaire dédié à la création de jeux modifiés avec intégration blockchain."
+    "description": "Let'sPlayModder est un projet communautaire autour de la création et du partage de mods dans l'univers gaming."
   }
 }
